@@ -19,4 +19,4 @@ This project involves building an intelligent chatbot using Natural Language Pro
 
 *OUTPUT*
 
-
+<img width="900" height="260" alt="Image" src="https://github.com/user-attachments/assets/9762b63c-6e2a-4a31-9d73-a47adc27f633" />
